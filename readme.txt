@@ -5,4 +5,3 @@ Creating a new branch is quick and simple.
 ban fast forward
 test bug
 ban fast forward change
->>>>>>>
